@@ -30,9 +30,8 @@ https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=I5dZPnMeBE-quB
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BANGLADESH", ANANDA TV
 https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=HFmB6AMzJLFImbcU4bfZdA&expires=1726464045&user=ef71b837ceef4cd18a6cf7069722d83d
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hB4Sv2y/20240803-101733.png" group-title="DOCUMENTORY", DISCOVERY HD
-https://api.flixtronic.top/sportszx/documentory/discovary.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q9kdNV7/image.webp" group-title="EXCLUSIVE", ZEE CINEMA HD
+https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 
 
 
