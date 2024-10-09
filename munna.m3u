@@ -51,7 +51,7 @@ https://edge01.iptv.digijadoo.net/live/sangsad_tv/playlist.m3u8?md5=DOoisfJr_4QV
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=RpF39LWmiQbJNAt8TJNdFA&expires=1726463561&user=ef71b837ceef4cd18a6cf7069722d83d
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="BANGLADESH", EKUSHEY TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.png" group-title="BANGLADESH", EKUSHEY TV HD
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV 
