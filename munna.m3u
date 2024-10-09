@@ -76,7 +76,7 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=diZ1MGsW5MHdps8
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=qGqEZ2hKEZDxFquu6tlYZw&expires=1726463755&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
-https://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=nnpYIIOmuF2NGgZvdjy1Mw&expires=1726463783&user=ef71b837ceef4cd18a6cf7069722d83d
+https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="BANGLADESH", MOHONA TV HD
 https://livess.ncare.live/live-orgin/Mohona-g.stream/playlist.m3u8
