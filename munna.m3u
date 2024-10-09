@@ -13,13 +13,13 @@ https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
 https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911893874.png", NTV
-https://medialive.akash-go.com/out/v1/be6345950c0c45aab3a4db02d9bb6cf3/index.mpd
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png", Bangla Vision
 https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
-https://medialive.akash-go.com/out/v1/033761f02abc44cc96b686d9b90ea40a/index.mpd
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
 https://medialive.akash-go.com/out/v1/f1e06e3fb5fc4c37a91f6c343a76e02e/index.mpd
