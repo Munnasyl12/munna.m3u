@@ -1,4 +1,4 @@
-#EXTM3U
+see#EXTM3U
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
@@ -147,6 +147,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:- 1 tvg-logo="https://commons.wikimedia.org/wiki/File:B4U_Music_logo.png", B4U MUSIC
 https://cdn2.pishow.tv/live/141/141_0.m3u8
+
+#EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7d/Tara_TV_logo_%282013%29.png", TARA BANGLA 
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Sananda_Logo.png", SANANDA TV
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:- 1 tvg-logo="
 
