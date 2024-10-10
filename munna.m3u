@@ -19,7 +19,7 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+https:\\streamingengine.rtvplus.tv\rtvpluslive\rtvpluslive.stream\playlist.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
@@ -67,7 +67,7 @@ http://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=cXytFX2OH2WtfdVPFt7jPw&expires=1726463725&user=ef71b837ceef4cd18a6cf7069722d83d
+https://edge01.iphttps:\\cdn.jagobd.com.bd\c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2\boishakhitv-org.stream\playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=diZ1MGsW5MHdps83cntoFg&expires=1726463743&user=ef71b837ceef4cd18a6cf7069722d83d
