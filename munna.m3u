@@ -4,7 +4,7 @@
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719845813149.png", Ekattor HD
-https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index.mpd
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png", Channel 24 HD
 https://medialive.akash-go.com/out/v1/6f383b37a0a04069bca27dc0308e1eac/index.mpd
@@ -90,8 +90,7 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=hulhOpmBXZqZKWE9Bya4Kw&expires=1726463815&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", MAASRANGA TV HD
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=1CYpNiT3YhumFpvoWeSxWA&expires=1726463828&user=ef71b837ceef4cd18a6cf7069722d83d
-
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
