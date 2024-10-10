@@ -72,7 +72,7 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=diZ1MGsW5MHdps83cntoFg&expires=1726463743&user=ef71b837ceef4cd18a6cf7069722d83d
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN NEWS HD
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=qGqEZ2hKEZDxFquu6tlYZw&expires=1726463755&user=ef71b837ceef4cd18a6cf7069722d83d
+http://global.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
 https://mytvbangla.com/0.m3u8
