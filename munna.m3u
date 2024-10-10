@@ -16,10 +16,10 @@ https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.mpd
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911937453.png", Bangla Vision
-https://medialive.akash-go.com/out/v1/6873084fcbd443d38064b816322aab6f/index.mpd
+http://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926612080.png", RTV HD
-https:\\streamingengine.rtvplus.tv\rtvpluslive\rtvpluslive.stream\playlist.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719926685888.png", Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
