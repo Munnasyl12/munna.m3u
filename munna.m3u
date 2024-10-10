@@ -136,9 +136,8 @@ http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png", COLOUR CINEPLEX HD
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=5284&deviceMac=00:1A:79:17:C0:71
 
-
-
-
+#EXTINF:- 1 tvg-logo="https://www.pngwing.com/en/free-png", B4U MOVIE
+https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 
