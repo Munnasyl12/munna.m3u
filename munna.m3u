@@ -154,6 +154,9 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Sananda_Logo.png", SANANDA TV
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 
+#EXTINF:- 1 tvg-logo="https://logos.fandom.com/wiki/Enterr10_Bangla?file=Enterr10_Bangla.jpg", ENTER 1O BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3u8
+
 #EXTINF:- 1 tvg-logo="https://www.pngaaa.com/detail/814956", STAR PLUS 
 http://217.20.112.199/starplushd/index.m3u8
 
