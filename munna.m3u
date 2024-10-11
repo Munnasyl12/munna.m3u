@@ -142,6 +142,9 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:- 1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png", KUSHBO BANGLA
 https://cdn3.pishow.tv/live/283/283_1.m3u8
 
+#EXTINF:- 1 tvg-logo="https://bn.wikipedia.org/wiki/.svg" NAGOTIK TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1728865241&md5=I_-P4BD25Ks-exoPBRYONQ&user=50b58d6089cd4d24a9db3c1244f3001
+
 #EXTINF:- 1 tvg-logo="https://imgbin.com/png/HEmK9CSq/9xm-music-television-television-channel-png", 9XM MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
