@@ -164,14 +164,6 @@ http://217.20.112.199/starplushd/index.m3u8
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:- 1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",B4U Movies VIP
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 
-"name": "B4U Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png",
-    "origin": "bldcmprod-cdn.toffeelive.com",
-    "referrer": "BuddyXiptv",
-    "userAgent": "",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728869553:KeyName=prod_linear:Signature=l_iuQ2S-m5xCn8Gl2JRfRx6tXYGFeRenxEIfC4743M-BIxD7XV-UeAU_Cd3XSuXx9RQHvC49o-q8iucsKWC1Bg",
-    "drmScheme": "",
-    "drmLicense": ""
+
