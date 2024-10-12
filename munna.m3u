@@ -1,4 +1,4 @@
-see#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png", DBC NEWS
 https://global.ncare.live/live-orgin/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=396346729
