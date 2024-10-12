@@ -163,6 +163,13 @@ http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:- 1 tvg-logo="https://pnghut.com/png/ECefMV1Zyr/star-movies-television-channel-fox-logo-brand-movie-transparent-png", STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
-#EXTINF:- 1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
-https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png", ZING TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:- 1 tvg-logo="https://logos.fandom.com/wiki/Music_India?file=Music_India.jpeg", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:- 1 tvg-logo="
+
+
 
