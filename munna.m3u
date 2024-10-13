@@ -164,9 +164,6 @@ http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png", ZING TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:- 1 tvg-logo="https://logos.fandom.com/wiki/Music_India?file=Music_India.jpeg", MUSIC INDIA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
-
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
