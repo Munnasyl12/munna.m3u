@@ -197,7 +197,8 @@ https://app.jagobd.com.bd/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/Channel_S_Logo.SVG", CHANNEL S
 https://app.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8
 
-#EXTINF:- 1 tvg-logo="
+#EXTINF:- 1 tvg-logo="#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png", SONGGET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=247600.m3u8
 
 
 
