@@ -158,6 +158,16 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:- 1 tvg-logo="https://www.pngaaa.com/detail/814956", STAR PLUS 
 http://217.20.112.199/starplushd/index.m3u8
 
+"name": "LIVE2 VIP",
+"link": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8",
+"logo": "https://images.toffeelive.com/images/program/301637/logo/240x240/mobile_logo_418608001727851921.png",
+"origin": "https://mprod-cdn.toffeelive.com",
+"referrer": "",
+"userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1728901062:KeyName=prod_live_events:Signature=XTR54Fx5XxIuW21KBTVHbXwoRKXYeR-lYzp-3lsvT70sW9515un5Azpuw8GCuI8qILEsOOnaRGLEg9ERdo6nBg",
+"drmScheme": "",
+"drmLicense": ""
+
 #EXTINF:- 1 tvg-logo="https://pnghut.com/png/ECefMV1Zyr/star-movies-television-channel-fox-logo-brand-movie-transparent-png", STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
