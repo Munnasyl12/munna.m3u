@@ -158,7 +158,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_480p/chunks.m3
 #EXTINF:- 1 tvg-logo="https://www.pngaaa.com/detail/814956", STAR PLUS 
 http://217.20.112.199/starplushd/index.m3u8
 
-#EXTINF:- 1 tvg-logo="https://pnghut.com/png/ECefMV1Zyr/star-movies-television-channel-fox-logo-brand-movie-transparent-png", STAR MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png", STAR MOVIES
 http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png", ZING TV
