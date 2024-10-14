@@ -51,7 +51,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="BANGLADESH", ATN BANGLA HD
 https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/vector-logo/396361/ekushe-tv-etv" group-title="BANGLADESH", EKUSHEY TV HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png", EKUSHEY TV HD
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV 
