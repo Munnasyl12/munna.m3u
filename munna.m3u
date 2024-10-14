@@ -204,4 +204,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png", Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="BDIX000(MIXED)",BANGLA TV HD [BD]
+https://app.jagobd.com.bd/c2VydmVyX3RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 
